@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Solver
+comment0.text=\r\n\ Class\ for\ solving\ the\ n-queen\ problem\r\n\r\n\ @Rasmus\ Herskind\ and\ Kristian\ Larsen\r\n\ @23/10/2018\r\n
+comment1.params=
+comment1.target=void\ testSolver()
+comment2.params=noOfQueens
+comment2.target=void\ findAllSolutions(int)
+comment3.params=min\ max
+comment3.target=void\ findNoOfSolutions(int,\ int)
+comment4.params=row
+comment4.target=void\ positionQueens(int)
+comment5.params=row\ col
+comment5.target=boolean\ legal(int,\ int)
+comment6.params=
+comment6.target=void\ printSolution()
+comment7.params=row\ col
+comment7.target=java.lang.String\ convert(int,\ int)
+numComments=8
